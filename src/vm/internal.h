@@ -7,9 +7,11 @@
 #ifndef BONOBO_INTERNAL_H
 #define BONOBO_INTERNAL_H
 
+#include "cpu.h"
 #include "memory.h"
 #include "object.h"
 #include "stack.h"
+#include "threading.h"
 #include "vm.h"
 
 #endif //BONOBO_INTERNAL_H
